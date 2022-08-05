@@ -30,11 +30,11 @@ THEN I am able to successfully create, update, and delete data in my database
 The testing of all api routes will be done by utilizing Insomnia API client.
 
 ## TECHNOLOGIES USED: 
-Insomnia
-SQL
-NODE.js 
-Express.js 
-Sequelize
+Insomnia,
+SQL,
+NODE.js,
+Express.js,
+Sequelize,
 NPM Modules: mysql2, dotenv
 
 ## SCREENSHOT:
