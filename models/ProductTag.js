@@ -21,7 +21,7 @@ ProductTag.init(
         key: 'id',
       },
     },
-    category_name: {
+    tag_id: {
       type: DataTypes.INTEGER,
       allowNull: false,
       references: {
